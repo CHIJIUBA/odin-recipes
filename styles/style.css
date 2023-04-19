@@ -1,0 +1,16 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    padding: 0px;
+}
+
+p {
+    color: #000033;
+    background-color: #c2c2a3;
+}
+
+ul, ol {
+    background-color: #c2c2a3;
+}
